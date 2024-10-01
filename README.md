@@ -37,4 +37,4 @@ Visit : https://adcode14.vercel.app/project for more projects
 
 ## Screen Shots
 
-<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(770).png" width="50%" />
+<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(760).png" alt="LMS_ss" width="100%" />
