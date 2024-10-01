@@ -1,7 +1,5 @@
 # Library_Management_System
- 
-Readme.md
----------
+
 If you are interested in this project and want to make one like this then follow this script.
 
 For this project, you need to download database like `mysql`, `sqlite`, etc... for storing the data into the database.
