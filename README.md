@@ -8,7 +8,9 @@ And also a `GUI(Graphical User Interface)` for display the app and to use it eas
 
 
 Required modules*
-""" >>> import mysql.connector as sql #database """
+```
+ >>> import mysql.connector as sql #database 
+```
 
 The below line imports all classes and methods which makes the program slower and not recommonded 
 >>> from tkinter import * # All GUI's
