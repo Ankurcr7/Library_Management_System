@@ -48,3 +48,21 @@ Visit : https://adcode14.vercel.app/project for more projects
 ## Screen Shots
 
 <img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(760).png" alt="LMS_ss" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(761).png" alt="LMS_ss" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(762).png" alt="LMS_ss" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(763).png" alt="LMS_ss" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(764).png" alt="LMS_ss" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(766).png" alt="LMS_ss" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(767).png" alt="LMS_ss" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(768).png" alt="LMS_ss" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(769).png" alt="LMS_ss" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(770).png" alt="LMS_ss" width="100%" />
