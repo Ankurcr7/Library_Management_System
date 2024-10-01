@@ -12,20 +12,28 @@ Required modules*
  >>> import mysql.connector as sql #database 
 ```
 
-The below line imports all classes and methods which makes the program slower and not recommonded 
+The below line imports all classes and methods which makes the program slower and not recommonded
+```
 >>> from tkinter import * # All GUI's
+```
 
 The below line imports classes and methods which are required and makes the program faster and recommonded
+```
 >>> from tkinter import Label, Frame, Button, Entry, Tk, StringVar, Scrollbar, OptionMenu, END
+```
 
 The below lines of code(imports) are optional because you can use different methods to display messeges
+```
 >>> from tkinter import ttk 
 >>> from tkinter import simpledialog as sd
 >>> from tkinter import messagebox as mb
+```
 
 Optional modules*
+```
 >>> from env import MysqlData # This module is created customly 
 >>> import csv
+```
 
 This App contains important commands like:-
 1. `Add Record`
