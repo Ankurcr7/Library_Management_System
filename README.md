@@ -46,6 +46,9 @@ You can also modify any command or change interface as you like
 
 Visit : https://adcode14.vercel.app/project for more projects
 
+Reference : https://pythongeeks.org/python-library-management-system-project/
+
+
 ## Screen Shots
 
 <img src="https://raw.githubusercontent.com/Ankurcr7/Library_Management_System/refs/heads/main/LMS_screenshots/Screenshot%20(760).png" alt="LMS_ss" width="100%" />
